@@ -1,6 +1,4 @@
 import { useState } from "react";
-import { DiVim } from "react-icons/di";
-import { HiH1 } from "react-icons/hi2";
 import { useNavigate } from "react-router-dom";
 
 export const Load = ({ accBalance, updateBalance, updateTransactions }) => {
